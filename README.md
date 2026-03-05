@@ -1,9 +1,8 @@
-<"ASOCIADOR DE TARJETAS TYMI">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>ASOCIACION DE TARJETA TYMI</title>
+    <title>.</title>
     <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -205,7 +204,7 @@
 
     <div class="page-container">
         <div class="top-bar">
-            <span class="blink">SYSTEM_ROOT: ASOCIAR_TARJETAS </span>
+            <span class="blink">ASOCIADOR_TARJETAS TYMI V1.2</span>
         </div>
 
         <div class="content-area">
